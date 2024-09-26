@@ -1,0 +1,13 @@
+test;
+env;
+variables;
+should;
+be;
+gitignored;
+so;
+that;
+public;
+does;
+not;
+see;
+it;
